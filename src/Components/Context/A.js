@@ -9,7 +9,7 @@ function A(props) {
       <h2>A Component</h2>
       <button
         onClick={() => {
-          setState("saiteja");
+          setState("Dubey Ravi Vinod");
         }}
       >
         Change Data
